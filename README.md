@@ -3,11 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshsharma20&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshsharma20" /> </p>
 
+🛠️ Azure DevSecOps: Proficient in leveraging Azure tools and practices to ensure secure and efficient development, delivery, and operations workflows.
+
+🌱 Greenfield Infrastructure: Played a pivotal role in architecting and implementing new infrastructures on OCI platforms, optimizing for performance, scalability, and security.
+
+🛡️ Comprehensive Security Knowledge: Deep understanding of security principles and best practices, adept at implementing security controls, monitoring systems, and conducting vulnerability assessments.
+
+🛠️ Tool Proficiency: Skilled in utilizing a wide range of DevOps and security tools, including but not limited to Azure DevOps, Jenkins, Docker, Kubernetes, Terraform, Ansible, and various security scanning tools.
+
+🤝 Collaborative Team Player: Proven ability to collaborate effectively with cross-functional teams, fostering a culture of collaboration, innovation, and continuous improvement.
+
+💡 Strong Problem-Solving Skills: Capable of analyzing complex technical challenges, identifying root causes, and implementing effective solutions to ensure project success.
+
+📢 Excellent Communication: Strong verbal and written communication skills, capable of articulating technical concepts to both technical and non-technical stakeholders.
+
+
 - 🌱 I’m currently learning **Docker& Kubernetes**
+
 
 - 💬 Ask me about **Devops ,Cloud , Terraform**
 
+
 - 📫 How to reach me **yogi.angrish@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
