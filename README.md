@@ -11,7 +11,6 @@
 
 🛠️ Tool Proficiency: Skilled in utilizing a wide range of DevOps and security tools, including but not limited to Azure DevOps, Jenkins, Docker, Kubernetes, Terraform, Ansible, and various security scanning tools.
 
-🤝 Collaborative Team Player: Proven ability to collaborate effectively with cross-functional teams, fostering a culture of collaboration, innovation, and continuous improvement.
 
 💡 Strong Problem-Solving Skills: Capable of analyzing complex technical challenges, identifying root causes, and implementing effective solutions to ensure project success.
 
