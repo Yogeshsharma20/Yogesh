@@ -12,9 +12,6 @@
 🛠️ Tool Proficiency: Skilled in utilizing a wide range of DevOps and security tools, including but not limited to Azure DevOps, Jenkins, Docker, Kubernetes, Terraform, Ansible, and various security scanning tools.
 
 
-💡 Strong Problem-Solving Skills: Capable of analyzing complex technical challenges, identifying root causes, and implementing effective solutions to ensure project success.
-
-📢 Excellent Communication: Strong verbal and written communication skills, capable of articulating technical concepts to both technical and non-technical stakeholders.
 
 
 - 🌱 I’m currently learning **Docker& Kubernetes**
