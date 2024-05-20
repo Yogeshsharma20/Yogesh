@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Yogesh sharma. Thank You for taking the time to view my GitHub Profile ...</h1>
+<h1 align="center">Hi 👋, My name is Yogesh sharma. Thank You for taking the time to view my GitHub Profile ..</h1>
 <h3 align="center">A passionate Devops & Cloud Engineer from India .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshsharma20&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshsharma20" /> </p>
